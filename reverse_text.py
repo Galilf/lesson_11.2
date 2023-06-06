@@ -1,2 +1,2 @@
-def reverse_text(text):
-    return text[::-1]
+def reverse_text(user_text):
+    return user_text[::-1]
